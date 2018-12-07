@@ -19,5 +19,5 @@ I used : <br>
 
 Application link: https://arcane-headland-85364.herokuapp.com/
 
-Portofolio Link: http://vasilache-andrei.herokuapp.com/
+Portfolio Link: http://vasilache-andrei.herokuapp.com/
 
